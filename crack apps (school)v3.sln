@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "crack apps (school)v3", ".", "{12B7C1C4-A05E-435F-AD70-A0772644140F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63826"
+		Debug.AspNetCompiler.PhysicalPath = "..\crack apps (school)v3\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63826\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63826"
+		Release.AspNetCompiler.PhysicalPath = "..\crack apps (school)v3\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63826\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63826"
+		SlnRelativePath = "..\crack apps (school)v3\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B7C1C4-A05E-435F-AD70-A0772644140F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B7C1C4-A05E-435F-AD70-A0772644140F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5DCFE2F-0F3A-4B9A-9CA9-A58FDFA89434}
+	EndGlobalSection
+EndGlobal
